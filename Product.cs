@@ -33,3 +33,4 @@ public class Product
         return $"{Title,-10} {Price,8:F2} грн {Count,5} шт.";
     }
 }
+
